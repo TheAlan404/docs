@@ -12,7 +12,7 @@ A modpack is a list of mods bundled with additional files, such as configuration
 
 Besides [the Modrinth App](https://modrinth.com/app), the easiest ways to play a Modrinth modpack are via [MultiMC](https://multimc.org), [Prism Launcher](https://prismlauncher.org), [ATLauncher](https://atlauncher.com), or [BakaXL](https://www.bakaxl.com/).
 
-To install a modpack on the server-side, try [mrpack-install](https://github.com/nothub/mrpack-install) or [the `itzg/minecraft-server` image](https://github.com/itzg/docker-minecraft-server) if using Docker.
+To install a modpack on the server-side, try [mrpack-install](https://github.com/nothub/mrpack-install), [mcman](https://github.com/ParadigmMC/mcman) or [the `itzg/minecraft-server` image](https://github.com/itzg/docker-minecraft-server) if using Docker.
 
 ### MultiMC and Prism Launcher
 
